@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-country="DZ;BH;EG" tvg-logo="https://i.imgur.com/PG9VUn4.png" group-title="General",MBC Drama KSA (1080p)
+#EXTINF:0 tvg-country="DZ;BH;EG" tvg-logo="https://i.imgur.com/PG9VUn4.png" group-title="عام",MBC Drama (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",AL HAYAT rtm
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Religious",AL HAYAT rtm
 rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ;BH;EG;IQ;KW;MA;OM;PS;YE" tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="Undefined",Al Qamar TV (360p)
 https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8?checkedby:iptvcat.com
@@ -13,20 +13,14 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8?che
 rtmp://91.134.145.75/?gmswf=/Dijlah&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Dijlah TV  jordan rtm
 rtmp://91.134.145.75/Dijlah?speed=1/?speed=1&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DZ;EG;SD" tvg-logo="https://i.imgur.com/hW4g2oe.png" group-title="Religious",GOD TV Africa (576p)
-https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",HKIBC
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ;BH;EG" tvg-logo="https://i.imgur.com/PG9VUn4.png" group-title="General",MBC Drama KSA (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ" tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="Undefined;MEXICO",Más TV
 https://video.ejeserver.com/live/teledoradahd.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DZ;BH;EG;OM;QA;SA" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Music",PMC Royale (720p) [Not 24/7]
-https://rohls.pmc.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ;BH;PS" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="News",RT Arabic (1080p) [Geo-blocked]
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DZ" tvg-logo="https://i.imgur.com/c4DSG2J.png" group-title="Religious",TV Maná Español (1080p)
-https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BH;EG;IQ" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/LTD0jIm.png" group-title="General",Bahrain TV (720p) [Not 24/7]
@@ -281,5 +275,5 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8?checkedby:iptvcat.com
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia (1920p) [Portrait]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Sky-MoviesComedy
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Movies",Sky-MoviesComedy
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8?checkedby:iptvcat.com
